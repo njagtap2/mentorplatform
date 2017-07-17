@@ -1,0 +1,28 @@
+{
+  "name": "codehproject",
+  "version": "1.0.0",
+  "description": "angular2 nodejs and mogodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njagtap2/mentorplatform.git"
+  },
+  "keywords": [
+    "clarity",
+    "angular2"
+  ],
+  "author": "Neha Jagtap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njagtap2/mentorplatform/issues"
+  },
+  "homepage": "https://github.com/njagtap2/mentorplatform#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
